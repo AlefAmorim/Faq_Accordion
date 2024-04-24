@@ -1,0 +1,139 @@
+@charset "UTF-8";
+
+@media screen and (min-width:320px) and (max-width:359px){
+    header{
+        height: 220px;
+    }
+    main{
+        width:270px;
+        transform: translateY(-100px);
+    }
+    .faqs{
+        margin: 4px;
+    }
+
+    .faqs h2{
+        font-size: 0.9em;
+    }
+
+    button{
+        width: 20px;
+        height: 20px;
+        padding:7px;
+    }
+
+    p{
+        font-size: 0.9em;
+    }
+
+    .attribution{
+        margin: 40px;
+    }
+}
+
+@media screen and (min-width:360px) and (max-width:413px) {
+    header{
+        height: 250px;
+    }
+    main{
+        width:320px;
+        transform: translateY(-100px);
+    }
+    .faqs{
+        margin: 4px;
+    }
+
+    .faqs h2{
+        font-size: 1em;
+    }
+
+    button{
+        width: 20px;
+        height: 20px;
+        padding:7px;
+    }
+
+    p{
+        font-size: 1em;
+    }
+
+    .attribution{
+        margin: 40px;
+    }
+}
+
+@media screen and (min-width:414px) and (max-width:499px) {
+    main{
+        width:380px
+    }
+    .faqs h2{
+        font-size: 1.3em;
+    }
+    button{
+        width: 40px;
+        height: 40px;
+        padding:15px;
+    }
+    p{
+        font-size: 1.1em;
+    }
+    .attribution{
+        margin: 40px;
+    }
+}
+
+@media screen and (min-width:670px) and (max-width:839px){
+    header{
+        background: rgb(76, 1, 110) url(../assets/images/background-pattern-desktop.svg) no-repeat;
+        background-size: cover;
+        height: 360px;
+    }
+    main{
+        width:600px;
+    }
+
+    .faqs .questions{
+        justify-content: space-between;
+    }
+
+    .faqs h2{
+        font-size: 1.7em;
+        padding: 0px;
+    }
+
+    p{
+        font-size: 1.3em;
+    }
+
+    .attribution{
+        margin: 40px;
+    }
+}
+
+@media screen and (min-width:840px) {
+    header{
+        background: rgb(76, 1, 110) url(../assets/images/background-pattern-desktop.svg) no-repeat;
+        background-size: cover;
+        height: 360px;
+    }
+    main{
+        width:750px;
+    }
+
+    .faqs .questions{
+        justify-content: space-between;
+    }
+
+    .faqs h2{
+        font-size: 1.8em;
+        padding: 5px;
+    }
+
+    p{
+        font-size: 1.3em;
+    }
+
+    .attribution{
+        margin: 40px;
+    }
+}
