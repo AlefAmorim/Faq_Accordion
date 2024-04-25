@@ -7,8 +7,8 @@
 
 **320x568:** ![320x568](https://github.com/AlefAmorim/Faq_Accordion/blob/main/design/resultado/320x568.png) 
 **360x780:** ![360x780](https://github.com/AlefAmorim/Faq_Accordion/blob/main/design/resultado/360x780.png)
-**360x800:** ![360x800](https://github.com/AlefAmorim/Faq_Accordion/blob/main/design/resultado/360x800.png)
 
+**360x800:** ![360x800](https://github.com/AlefAmorim/Faq_Accordion/blob/main/design/resultado/360x800.png)
 **820x1180:** ![820x1180](https://github.com/AlefAmorim/Faq_Accordion/blob/main/design/resultado/820x1180.png)
 
 **1280x800:** ![1280x800](https://github.com/AlefAmorim/Faq_Accordion/blob/main/design/resultado/1280x800.png)
