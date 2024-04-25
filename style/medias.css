@@ -118,6 +118,7 @@
     }
     main{
         width:750px;
+        transform: translateY(-190px);
     }
 
     .faqs .questions{
@@ -125,7 +126,7 @@
     }
 
     .faqs h2{
-        font-size: 1.8em;
+        font-size: 1.4em;
         padding: 5px;
     }
 
