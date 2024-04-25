@@ -1,9 +1,9 @@
 # ![Icon_Star Svg](https://github.com/AlefAmorim/Faq_Accordion/blob/main/assets/images/icon-star.svg) Faq_Accordion
 
- A  **Front End Mentor** challenge , in which I had to make a responsive Accordion FAQ. I tried to make the site as responsive as possible using CSS media queries.
+ Um desafio do **Front End Mentor** ,no qual tive que fazer um **FAQ Accordion** responsivo.Tentei deixar o site o mais responsivo o possivel de acordo com a largura de algumas telas.
 
-#**Tools Used🧰:**
+#**Tecnologias Usadas🧰:**
 
-* **Html** - All content in the 
-* **Css** - All styles for elements and media query settings.
-* **Js** - To do all the funcionalities of the buttons,hidden and display the answers hiddens.
+* **Html** - Todo o conteúdo da página.
+* **Css** - Toda a estilização dos componentes da página,e todas as configurações de **media queries** para a responsividade do site.
+* **Js** - Todas as funcionalidades dos buttons,mostrar e esconder os textos.
