@@ -1,140 +1,33 @@
-@charset "UTF-8";
+@charset "UFT-8";
 
-@media screen and (min-width:320px) and (max-width:359px){
+@media  screen and (600px <= width <=1000px) {
     header{
-        height: 220px;
-    }
-    main{
-        width:270px;
-        transform: translateY(-100px);
+        background-image:url(../assets/images/background-pattern-desktop.svg);
+        transition: all ease-in-out 2s;
     }
     .faqs{
-        margin: 4px;
-    }
+        width: 76%;
+        transition: all ease-in-out 2s;
 
-    .faqs h2{
-        font-size: 0.9em;
     }
-
-    button{
-        width: 20px;
-        height: 20px;
-        padding:7px;
-    }
-
-    p{
-        font-size: 0.9em;
-    }
-
-    .attribution{
-        margin: 40px;
+    .questions{
+        grid-template-columns: 90% 10%;
+        transition: all ease-in-out 2s;
     }
 }
 
-@media screen and (min-width:360px) and (max-width:413px) {
+@media screen and (1001px <= width){
     header{
-        height: 250px;
-    }
-    main{
-        width:320px;
-        transform: translateY(-100px);
+        background-image:url(../assets/images/background-pattern-desktop.svg);
+        transition: all ease-in-out 2s;
     }
     .faqs{
-        margin: 4px;
-    }
+        width: 56%;
+        transition: all ease-in-out 2s;
 
-    .faqs h2{
-        font-size: 1em;
     }
-
-    button{
-        width: 20px;
-        height: 20px;
-        padding:7px;
-    }
-
-    p{
-        font-size: 1em;
-    }
-
-    .attribution{
-        margin: 40px;
-    }
-}
-
-@media screen and (min-width:414px) and (max-width:520px) {
-    main{
-        width:380px
-    }
-    .faqs h2{
-        font-size: 1.3em;
-    }
-    button{
-        width: 40px;
-        height: 40px;
-        padding:15px;
-    }
-    p{
-        font-size: 1.1em;
-    }
-    .attribution{
-        margin: 40px;
-    }
-}
-
-@media screen and (min-width:670px) and (max-width:839px){
-    header{
-        background: rgb(76, 1, 110) url(../assets/images/background-pattern-desktop.svg) no-repeat;
-        background-size: cover;
-        height: 360px;
-    }
-    main{
-        width:600px;
-    }
-
-    .faqs .questions{
-        justify-content: space-between;
-    }
-
-    .faqs h2{
-        font-size: 1.7em;
-        padding: 0px;
-    }
-
-    p{
-        font-size: 1.3em;
-    }
-
-    .attribution{
-        margin: 40px;
-    }
-}
-
-@media screen and (min-width:840px) {
-    header{
-        background: rgb(76, 1, 110) url(../assets/images/background-pattern-desktop.svg) no-repeat;
-        background-size: cover;
-        height: 360px;
-    }
-    main{
-        width:750px;
-        transform: translateY(-190px);
-    }
-
-    .faqs .questions{
-        justify-content: space-between;
-    }
-
-    .faqs h2{
-        font-size: 1.4em;
-        padding: 5px;
-    }
-
-    p{
-        font-size: 1.3em;
-    }
-
-    .attribution{
-        margin: 40px;
+    .questions{
+        grid-template-columns: 90% 10%;
+        transition: all ease-in-out 2s;
     }
 }
