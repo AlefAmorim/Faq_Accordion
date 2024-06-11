@@ -19,6 +19,6 @@
 # **Tecnologias Usadas🧰:**
 
 * **Html** - Todo o conteúdo da página.
-* **Css** - Toda a estilização dos componentes da página,e todas as configurações de **media queries** para a responsividade do site.
+* **Css** - Toda a estilização dos componentes da página,todas as configurações de **display:grid**,e **media queries** para a responsividade do site.
 * **Js** - Todas as funcionalidades dos buttons,mostrar e esconder os textos.
 * **[Mobile simulator - responsive testing tool](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk?hl=pt-BR)** - Testes de responsividade. As capturas acima também foram realizadas pela mesma extensão.
